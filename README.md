@@ -3,6 +3,7 @@
 
 ## Javascript Interview Questions:
 https://www.interviewbit.com/javascript-interview-questions/
+
 PDF: https://github.com/karan1276/javascript-interview-prep/blob/main/resources/Javascript_interview.pdf
 
 ## Javascript Core Concepts:
