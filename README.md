@@ -47,3 +47,4 @@ Hooks
 Building
 
 https://www.interviewbit.com/react-interview-questions/
+PDF: https://github.com/karan1276/javascript-interview-prep/blob/main/resources/react_interview_questions.pdf
